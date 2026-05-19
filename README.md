@@ -44,3 +44,4 @@ Vision Meets Language - Building a Multimodal Transformer from Scratch
 
 **Hamshini**  
 Electrical Engineering Undergraduate  
+IIT Bombay
