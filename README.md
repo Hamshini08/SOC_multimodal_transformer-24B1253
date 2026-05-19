@@ -15,7 +15,7 @@ This repository focuses on implementing the core components behind modern Vision
 
 ## Repository Structure
 
-# Progress
+## Progress
 
 - [x] Task 0 — Tensor Warmup & Paper Reading
 - [ ] Task 1 — Bigram + Single Attention Head
@@ -30,7 +30,9 @@ This repository focuses on implementing the core components behind modern Vision
 ## Goals
 - Understand transformers mathematically
 - Build attention mechanisms from scratch
-- Learn multimodal learning architectures
+- Explore multimodal learning architectures
+- Implement Vision Transformers and cross-attention
+- Learn contrastive learning for image-text alignment
 - Reproduce core ideas behind modern VLMs
 
 ---
@@ -38,7 +40,7 @@ This project is developed as a part of :
 Seasons of Code · IIT Bombay  
 Vision Meets Language - Building a Multimodal Transformer from Scratch
 
-# Author
+## Author
 
 **Hamshini**  
 Electrical Engineering Undergraduate  
