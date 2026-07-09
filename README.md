@@ -102,7 +102,7 @@ A complete PyTorch implementation of a Vision Language Model (VLM) developed as 
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Hamshini08/SOC_multimodal_transformer-24B1253)>
 
 cd Vision-Language-Model
 ```
